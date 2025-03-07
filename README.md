@@ -117,8 +117,9 @@
    <section id="blog">
         <h2>Latest Blog Posts</h2>
 
-   <div class="blog-post">
-            <img src="(https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png)" alt="Guitar">
+  
+  <div class="blog-post">       
+       <img src="https://johnaldrindaculan.github.io/music-blog/images/guitar.jpg" alt="Guitar">
             <h3>The Guitar</h3>
             <p><strong>Definition:</strong> A stringed instrument played by plucking or strumming.</p>
             <p><strong>History:</strong> The guitar has roots dating back over 4,000 years, with early versions appearing in ancient Persia and Egypt.</p>
@@ -127,7 +128,7 @@
         </div>
 
    <div class="blog-post">
-            <img src="(https://upload.wikimedia.org/wikipedia/commons/6/6a/Grand_piano_steinway.jpg)" alt="Piano">
+            <img src="https://johnaldrindaculan.github.io/music-blog/images/piano.html" alt="Piano">
             <h3>The Piano</h3>
             <p><strong>Definition:</strong> A keyboard instrument where hammers strike strings to produce sound.</p>
             <p><strong>History:</strong> Invented in Italy in the early 1700s by Bartolomeo Cristofori.</p>
@@ -136,7 +137,7 @@
         </div>
 
    <div class="blog-post">
-            <img src="(https://upload.wikimedia.org/wikipedia/commons/f/f3/Violin_VL100.png)" alt="Violin">
+            <img src="https://johnaldrindaculan.github.io/music-blog/images/violin.html" alt="Violin">
             <h3>The Violin</h3>
             <p><strong>Definition:</strong> A bowed string instrument with four strings.</p>
             <p><strong>History:</strong> Originated in the 16th century in Italy, evolving from earlier stringed instruments.</p>
@@ -145,7 +146,7 @@
         </div>
 
    <div class="blog-post">
-            <img src="(https://upload.wikimedia.org/wikipedia/commons/9/96/Drum_kit.jpg)" alt="Drums">
+       <img src="https://johnaldrindaculan.github.io/music-blog/images/drums.jpg" alt="Drums">
             <h3>The Drums</h3>
             <p><strong>Definition:</strong> A percussion instrument that produces sound when struck.</p>
             <p><strong>History:</strong> Drums have been used since ancient times for communication and music.</p>
@@ -154,7 +155,7 @@
         </div>
 
    <div class="blog-post">
-            <img src="(https://upload.wikimedia.org/wikipedia/commons/7/74/Western_concert_flute_%28Yamaha%29.jpg)" alt="Flute">
+<img src="https://johnaldrindaculan.github.io/music-blog/images/flute.jpg" alt="Flute">
             <h3>The Flute</h3>
             <p><strong>Definition:</strong> A wind instrument that produces sound by blowing air across an opening.</p>
             <p><strong>History:</strong> One of the oldest musical instruments, with versions found in prehistoric times.</p>
