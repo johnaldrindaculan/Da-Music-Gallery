@@ -5,7 +5,9 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
 <html>
    <head>
      <title>My music Blog</title> 
-      <p style="color:black">Background</p>
+     <p>
+       <font color="gold">My Music Blog</font>
+   </p>
       
          
    </body>
