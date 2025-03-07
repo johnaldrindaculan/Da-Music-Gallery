@@ -8,12 +8,12 @@
 </head>
 <body>
 
-    <header>
+   <header>
         <h1>Music Blog</h1>
         <p>Discover the beauty of musical instruments</p>
     </header>
 
-    <nav>
+   <nav>
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#blog">Blog</a></li>
@@ -21,7 +21,7 @@
         </ul>
     </nav>
 
-    <section id="blog">
+   <section id="blog">
         <h2>Latest Blog Posts</h2>
         <div class="blog-post">
             <img src="images/guitar.jpg" alt="Guitar">
@@ -30,7 +30,7 @@
             <a href="posts/guitar.html">Read More</a>
         </div>
 
-        <div class="blog-post">
+   <div class="blog-post">
             <img src="images/piano.jpg" alt="Piano">
             <h3>The Magic of Piano Music</h3>
             <p>Discover how the piano has shaped classical and modern music...</p>
@@ -38,27 +38,27 @@
         </div>
     </section>
 
-    <section id="contact">
+   <section id="contact">
         <h2>Contact Us</h2>
         <form id="contactForm">
             <label for="name">Name:</label>
             <input type="text" id="name" required>
 
-            <label for="email">Email:</label>
+   <label for="email">Email:</label>
             <input type="email" id="email" required>
 
-            <label for="message">Message:</label>
+   <label for="message">Message:</label>
             <textarea id="message" required></textarea>
 
-            <button type="submit">Send</button>
+   <button type="submit">Send</button>
         </form>
         <p id="formMessage"></p>
     </section>
 
-    <footer>
+   <footer>
         <p>&copy; 2025 Music Blog. All rights reserved.</p>
     </footer>
 
-    <script src="script.js"></script>
+   <script src="script.js"></script>
 </body>
 </html>
