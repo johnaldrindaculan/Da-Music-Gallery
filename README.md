@@ -109,3 +109,57 @@ footer {
     padding: 10px;
     cursor: pointer;
 }
+function showContent(section) {
+    const content = document.getElementById('content');
+    let text = '';
+
+    switch (section) {
+        case 'home':
+            text = `<div class="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item">
+                                <img src="images/featured1.jpg" alt="Featured Article 1">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="images/featured2.jpg" alt="Featured Article 2">
+                            </div>
+                        </div>
+                        <div class="carousel-controls">
+                            <button onclick="prevSlide()">&#10094;</button>
+                            <button onclick="nextSlide()">&#10095;</button>
+                        </div>
+                    </div>
+                    <h2>Welcome to My Music Blog</h2>
+                    <p>This is the home section where you can find the latest updates and news.</p>`;
+            break;
+        case 'genres':
+            text = '<h2>Genres</h2><p>Explore different music genres here!</p>';
+            break;
+        case 'about':
+            text = '<h2>About</h2><p>Learn more about the blog and the author.</p>';
+            break;
+        case 'contact':
+            text = '<h2>Contact</h2><p>Get in touch with me through this section!</p>';
+            break;
+        default:
+            text = '<h2>Welcome to My Music Blog</h2>';
+    }
+
+    content.innerHTML = text;
+}
+
+let currentSlide = 0;
+
+function nextSlide() {
+    const carouselInner = document.querySelector('.carousel-inner');
+    const totalSlides = document.querySelectorAll('.carousel-item').length;
+    currentSlide = (currentSlide + 1) % totalSlides;
+    carouselInner.style.transform = `translateX(-${currentSlide * 100}%)`;
+}
+
+function prevSlide() {
+    const carouselInner = document.querySelector('.carousel-inner');
+    const totalSlides = document.querySelectorAll('.carousel-item').length;
+    currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+    carouselInner.style.transform = `translateX(-${currentSlide * 100}%)`;
+}
