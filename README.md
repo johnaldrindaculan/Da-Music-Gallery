@@ -23,7 +23,7 @@ Welcome to my music blog! This blog is dedicated to exploring various music genr
 <body>
     <div class="gallery">
         <div class="gallery-item">
-            <img src="path/to/your/image1.jpg" alt="Image 1">
+            <img src=["path/to/your/image1.jpg](https://open.spotify.com/track/4UFxSyPlvi0vopJe51LwsN?si=btcgHS8_TeKe_ihiaopJRw)" alt="Image 1">
         </div>
         <div class="gallery-item">
             <img src="path/to/your/image2.jpg" alt="Image 2">
