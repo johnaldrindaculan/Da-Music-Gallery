@@ -10,7 +10,7 @@ Welcome to my music blog! This blog is a journey through my favorite music genre
 - [Contributing](#contributing)
 
 body {
-    background: url('https://www.pinterest.com/pin/801781539883286261/') no-repeat center center fixed;
+    background: url('https://unsplash.com/photos/a-watercolor-painting-of-a-yellow-background-D3UrbtRlj0c') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
     color: #4a4a4a;
