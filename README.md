@@ -8,7 +8,7 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
      <p>
        <font color="gold">My Music Blog</font>
    </p>
-      
+      <body bgcolor="gold">
          
    </body>
    </head>
