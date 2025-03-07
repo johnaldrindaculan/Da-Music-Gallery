@@ -4,8 +4,10 @@
 </font>
 <html>
    <head>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="150" Height="120">
-   <p>        
+     <center>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="150" Height="120">
+     </center>
+      <p>        
    <font color="Aquamarine"> </font>
    </p>
       <body style="background-color:Black;">
