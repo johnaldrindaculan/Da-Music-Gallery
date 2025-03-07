@@ -86,7 +86,7 @@
         }
 
    .blog-post a:hover {
-            background-color: white;
+            background-color: black;
             color: black;
         }
 
