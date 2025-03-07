@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music Blog | Explore Musical Instruments</title>
     <style>
-        /* Apply black background and gold font */
-        body {
+        
+   body {
             background-color: black;
             color: gold;
             font-family: Arial, sans-serif;
@@ -14,16 +14,16 @@
             padding: 0;
         }
 
-   /* Header */
-        header {
+   
+   header {
             text-align: center;
             padding: 20px;
             background-color: #222;
             color: gold;
         }
 
-   /* Navigation */
-        nav {
+   
+   nav {
             background-color: #333;
             padding: 10px;
             text-align: center;
@@ -49,14 +49,13 @@
             color: white;
         }
 
-   /* Sections */
-        section {
+   section {
             padding: 20px;
             text-align: center;
         }
 
-   /* Blog Post Styling */
-        .blog-post {
+
+   .blog-post {
             background: #111;
             padding: 15px;
             margin: 15px;
@@ -89,8 +88,7 @@
             color: black;
         }
 
-   /* Contact Form */
-        form {
+   form {
             display: flex;
             flex-direction: column;
             max-width: 400px;
@@ -122,8 +120,8 @@
             color: black;
         }
 
-   /* Footer */
-        footer {
+  
+   footer {
             text-align: center;
             padding: 15px;
             background-color: #222;
