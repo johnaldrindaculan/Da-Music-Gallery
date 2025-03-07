@@ -14,8 +14,7 @@ Welcome to my music blog! This blog is dedicated to exploring various music genr
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
-    <style>
+
       
            
         
