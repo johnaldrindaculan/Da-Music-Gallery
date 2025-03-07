@@ -9,7 +9,7 @@
    
     
    <center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="500" Height="300">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="500" Height="250">
      </center>
      
       
