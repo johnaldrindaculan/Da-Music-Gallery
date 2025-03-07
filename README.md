@@ -4,11 +4,11 @@
 </font>
 <html>
    <head>
-     <img src="Guitar.jpg">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png.jpg">
    <p>        
    <font color="Aquamarine"> </font>
    </p>
-      <body style="background-color:Brown;">
+      <body style="background-color:Dark Brown;">
          
    </body>
    </head>
