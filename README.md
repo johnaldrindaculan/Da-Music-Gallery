@@ -4,7 +4,7 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
 
 <html>
    <head>
-     
+     <img src="musical note.jpg"
    <p>
    <font color="Aquamarine">My Music Blog</font>
    <font color="Aquamarine">This Web Blog of John Aldrin Daculan is focused on exploring my favorite music of different genres.
