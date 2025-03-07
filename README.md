@@ -5,8 +5,8 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
 <html>
    <head>
      <title>background colour</title> 
-      <body bg color="gold">
-      <p>Preparation of upsc</p>
+      <body bg color="black">
+      
          
    </body>
    </head>
