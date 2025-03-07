@@ -25,6 +25,7 @@
    </body>
    </head>
 </html>
+<center>
 <font color="Gold"># Table of Contents</font>
 
    <nav class="navbar">
@@ -45,3 +46,4 @@
   <p><font color="Gold">
   Welcome to my music blog! This blog is a journey through my favorite music genres, highlighting unique sounds and unforgettable tracks. Join me as I delve into rock, jazz, classical, and much more.</font></p>
 </main>
+</center>
