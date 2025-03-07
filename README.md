@@ -16,6 +16,36 @@ Learn more about the blog and the author.
 # Contact
 Get in touch with me through this section!
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Music Blog</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Music Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#" onclick="showContent('home')">Home</a></li>
+                <li><a href="#" onclick="showContent('genres')">Genres</a></li>
+                <li><a href="#" onclick="showContent('about')">About</a></li>
+                <li><a href="#" onclick="showContent('contact')">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main id="content">
+        <!-- Content will be displayed here -->
+    </main>
+    <footer>
+        <p>&copy; 2025 My Music Blog. All rights reserved.</p>
+    </footer>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
+
 function showContent(section) {
     const content = document.getElementById('content');
     let text = '';
@@ -38,4 +68,46 @@ function showContent(section) {
     }
 
     content.innerHTML = text;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
