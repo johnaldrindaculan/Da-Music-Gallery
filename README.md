@@ -118,7 +118,7 @@
         <h2>Latest Blog Posts</h2>
 
    <div class="blog-post">
-            <img src="images/guitar.jpg" alt="Guitar">
+            <img src="posts/guitar.html" alt="Guitar">
             <h3>The Guitar</h3>
             <p><strong>Definition:</strong> A stringed instrument played by plucking or strumming.</p>
             <p><strong>History:</strong> The guitar has roots dating back over 4,000 years, with early versions appearing in ancient Persia and Egypt.</p>
