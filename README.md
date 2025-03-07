@@ -1,11 +1,13 @@
+<center>
 <title><font color="Gold"># My Music Blog</font></title>
 
  <font color="Gold">This Web Blog of John Aldrin Daculan is focused on exploring my favorite music of different genres.
 </font>
+</center>
 <html>
    <head>
     
-   <body background="Vintage.jpg"> 
+   <body background="Musical Notes.jpg"> 
   
     
    </body>
