@@ -166,3 +166,9 @@ footer {
     </script>
 </body>
 </html>
+# My Music Blog
+
+- [Home](Home/README.md)
+- [Genres](Genres/README.md)
+- [About](About/README.md)
+- [Contact](Contact/README.md)
