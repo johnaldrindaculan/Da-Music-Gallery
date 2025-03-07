@@ -30,7 +30,7 @@
 
    <nav class="navbar">
       <ul>
-      <design:none>
+      <design:>
        <li><a href=" ">Home</a></li>
       <li><a href=" ">About</a></li>
       <li><a href=" ">Blog</a></li>
