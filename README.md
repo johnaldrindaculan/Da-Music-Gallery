@@ -5,8 +5,8 @@
 <html>
    <head>
     
-    
-  <body background="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png'>
+   <body background="image(6).jpg"> 
+  <body background="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png">
     
    </body>
     
