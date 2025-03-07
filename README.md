@@ -119,7 +119,7 @@
 
   
   <div class="blog-post">       
-    <img src="images/image(8).jpeg" alt="Guitar">
+    <img src="images/images(8).jpeg" alt="Guitar">
     <h3>The Guitar</h3>
     <p><strong>Definition:</strong> A stringed instrument played by plucking or strumming.</p>
     <p><strong>History:</strong> The guitar has roots dating back over 4,000 years, with early versions appearing in ancient Persia and Egypt.</p>
@@ -128,7 +128,7 @@
 </div>
 
 <div class="blog-post">
-    <img src="images/image(9).jpeg" alt="Piano">
+    <img src="images/images(9).jpeg" alt="Piano">
     <h3>The Piano</h3>
     <p><strong>Definition:</strong> A keyboard instrument where hammers strike strings to produce sound.</p>
     <p><strong>History:</strong> Invented in Italy in the early 1700s by Bartolomeo Cristofori.</p>
@@ -146,7 +146,7 @@
 </div>
 
 <div class="blog-post">
-    <img src="images/image(10).jpeg" alt="Drums">
+    <img src="images/images(10).jpeg" alt="Drums">
     <h3>The Drums</h3>
     <p><strong>Definition:</strong> A percussion instrument that produces sound when struck.</p>
     <p><strong>History:</strong> Drums have been used since ancient times for communication and music.</p>
@@ -155,7 +155,7 @@
 </div>
 
 <div class="blog-post">
-    <img src="images/image(11).jpeg" alt="Flute">
+    <img src="images/images(11).jpeg" alt="Flute">
     <h3>The Flute</h3>
     <p><strong>Definition:</strong> A wind instrument that produces sound by blowing air across an opening.</p>
     <p><strong>History:</strong> One of the oldest musical instruments, with versions found in prehistoric times.</p>
