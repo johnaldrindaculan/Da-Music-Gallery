@@ -6,7 +6,9 @@
    <head>
     
     
-   
+   <body style="background:url('/https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png'>
+    
+   </body>
     
    <center>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="500" Height="250">
