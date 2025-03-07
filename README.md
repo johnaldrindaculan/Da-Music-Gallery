@@ -4,11 +4,11 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
 
 <html>
    <head>
-     <title>My music Blog</title> 
+     <title># My music Blog</title> 
      <p>
        <font color="gold">My Music Blog</font>
    </p>
-      <body bgcolor="gold">
+      <body style="background-color:gold;">
          
    </body>
    </head>
