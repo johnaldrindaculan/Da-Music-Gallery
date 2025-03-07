@@ -16,127 +16,96 @@ Learn more about the blog and the author.
 # Contact
 Get in touch with me through this section!
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Music Blog</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-    <header>
-        <h1>My Music Blog</h1>
-        <nav>
-            <ul>
-                <li><a href="#" onclick="showContent('home')">Home</a></li>
-                <li><a href="#" onclick="showContent('genres')">Genres</a></li>
-                <li><a href="#" onclick="showContent('about')">About</a></li>
-                <li><a href="#" onclick="showContent('contact')">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main id="content">
-        <!-- Content will be displayed here -->
-    </main>
-    <footer>
-        <p>&copy; 2025 My Music Blog. All rights reserved.</p>
-    </footer>
-    <script src="js/scripts.js"></script>
-</body>
-</html>
-
-function showContent(section) {
-    const content = document.getElementById('content');
-    let text = '';
-
-    switch (section) {
-        case 'home':
-            text = '<h2>Welcome to My Music Blog</h2><p>This is the home section where you can find the latest updates and news.</p>';
-            break;
-        case 'genres':
-            text = '<h2>Genres</h2><p>Explore different music genres here!</p>';
-            break;
-        case 'about':
-            text = '<h2>About</h2><p>Learn more about the blog and the author.</p>';
-            break;
-        case 'contact':
-            text = '<h2>Contact</h2><p>Get in touch with me through this section!</p>';
-            break;
-        default:
-            text = '<h2>Welcome to My Music Blog</h2>';
-    }
-
-    content.innerHTML = text;
-}
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Georgia', serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
-    background-color: #333;
+    background-color: #000;
     color: #fff;
-    padding: 10px 20px;
+    padding: 20px;
     text-align: center;
+}
+
+header h1 {
+    font-size: 3em;
+    font-weight: bold;
 }
 
 nav ul {
     list-style: none;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
 nav ul li {
-    display: inline;
-    margin: 0 10px;
+    margin: 0 15px;
 }
 
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    font-size: 1.2em;
 }
 
 main {
-    padding: 20px;
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 footer {
-    background-color: #333;
+    background-color: #000;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 20px;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Music Blog</title>
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-    <header>
-        <h1>My Music Blog</h1>
-        <nav>
-            <ul>
-                <li><a href="#" onclick="showContent('home')">Home</a></li>
-                <li><a href="#" onclick="showContent('genres')">Genres</a></li>
-                <li><a href="#" onclick="showContent('about')">About</a></li>
-                <li><a href="#" onclick="showContent('contact')">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main id="content">
-        <!-- Content will be displayed here -->
-    </main>
-    <footer>
-        <p>&copy; 2025 My Music Blog. All rights reserved.</p>
-    </footer>
-    <script src="js/scripts.js"></script>
-</body>
-</html>
+
+/* Carousel Styles */
+.carousel {
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.carousel-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+}
+
+.carousel-controls button {
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
