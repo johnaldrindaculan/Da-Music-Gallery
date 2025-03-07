@@ -4,8 +4,8 @@ This Web Blog of John Aldrin Daculan is focused on exploring my favorite music o
 
 <html>
    <head>
-     <title>background colour</title> 
-      <body bg color="black">
+     <title>My music Blog</title> 
+      <p style="color:black">Background</p>
       
          
    </body>
