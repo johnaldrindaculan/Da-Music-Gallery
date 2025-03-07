@@ -4,7 +4,7 @@
 </font>
 <html>
    <head>
-     <img src="music sheet.jpg">
+     <img src="Guitar.jpg">
    <p>        
    <font color="Aquamarine"> </font>
    </p>
