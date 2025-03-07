@@ -1,16 +1,19 @@
-<center>
+<!DOCTYPE html>
+<html>
+<head>
+ <center>
 <title><font color="Gold"># My Music Blog</font></title>
 
  <font color="Gold">This Web Blog of John Aldrin Daculan is focused on exploring my favorite music of different genres.
 </font>
 </center>
-<html>
-   <head>
-    
+
+</head>
+  <body> 
    <body background="Musical Notes.jpg"> 
   
     
-   </body>
+   
     
    <center>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" width="500" Height="250">
@@ -22,9 +25,8 @@
    </p>
       <body style="background-color:Vintage;">
          
-   </body>
-   </head>
-</html>
+   
+
 <center>
 <font color="Gold"># Table of Contents</font>
 
@@ -47,3 +49,5 @@
   Welcome to my music blog! This blog is a journey through my favorite music genres, highlighting unique sounds and unforgettable tracks. Join me as I delve into rock, jazz, classical, and much more.</font></p>
 </main>
 </center>
+</body>
+</html>
