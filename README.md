@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
- <center>
+<center>
 <title><font color="Gold"># My Music Blog</font></title>
-
+<html>
+ <head>
  <font color="Gold">This Web Blog of John Aldrin Daculan is focused on exploring my favorite music of different genres.
 </font>
 </center>
@@ -23,7 +21,7 @@
    <p>        
    <font color="Aquamarine"> </font>
    </p>
-      <body style="background-color:Vintage;">
+      <body style="background-color:Black;">
          
    
 
@@ -32,12 +30,10 @@
 
    <nav class="navbar">
       <ul>
-      <design:>
        <li><a href=" ">Home</a></li>
       <li><a href=" ">About</a></li>
       <li><a href=" ">Blog</a></li>
       <li><a href=" ">Contact</a></li>  
-      </design>
       </ul>
      
    </nav>
