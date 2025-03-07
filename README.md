@@ -8,6 +8,3 @@ Welcome to my music blog!This blog is dedicated to exploring various music genre
 - [About](#about)
 - [Contact](#contact)
 - [Contributing](#contributing)
-
-
-
