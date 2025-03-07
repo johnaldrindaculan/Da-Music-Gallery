@@ -7,7 +7,12 @@ Welcome to my music blog! This blog is a journey through my favorite music genre
 - [Home](#home)
 - [Genres](#genres)
 - [About](#about)
-- [Contact](#contact)
+- [Contacts](#contacts)
 - [Contributing](#contributing)
 </center>
 
+ <a href="/">Home</a>
+  <a href="/">Genres</a>
+   <a href="/">About</a>
+    <a href="/">Contacts</a>
+     <a href="/">Contributing</a>
