@@ -21,7 +21,7 @@
         </ul>
     </nav>
 
-   <section id="blog">
+  <section id="blog">
         <h2>Latest Blog Posts</h2>
         <div class="blog-post">
             <img src="images/guitar.jpg" alt="Guitar">
@@ -55,7 +55,7 @@
         <p id="formMessage"></p>
     </section>
 
-   <footer>
+ <footer>
         <p>&copy; 2025 Music Blog. All rights reserved.</p>
     </footer>
 
