@@ -9,29 +9,4 @@ Welcome to my music blog! This blog is dedicated to exploring various music genr
 - [Contact](#contact)
 - [Contributing](#contributing)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-      
-           
-        
-    
-</head>
-<body>
-    <div class="gallery">
-        <div class="gallery-item">
-            <img src=["path/to/your/image1.jpg](https://open.spotify.com/track/4UFxSyPlvi0vopJe51LwsN?si=btcgHS8_TeKe_ihiaopJRw)" alt="Image 1">
-        </div>
-        <div class="gallery-item">
-            <img src="path/to/your/image2.jpg" alt="Image 2">
-        </div>
-        <div class="gallery-item">
-            <img src="path/to/your/image3.jpg" alt="Image 3">
-        </div>
-        <!-- Add more images as needed -->
-    </div>
-</body>
-</html>
