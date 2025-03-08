@@ -41,7 +41,7 @@
         }
 
    nav ul li a {
-            color: Blue;
+            color: #FFD700;
             text-decoration: none;
             font-weight: bold;
         }
