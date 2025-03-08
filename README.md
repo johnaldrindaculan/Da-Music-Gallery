@@ -6,26 +6,29 @@
     <title>Music Blog | Explore Musical Instruments</title>
     <style>
         
-   
    body {
-            background-color: #FAE7B5; /* Light Gold */
-            color: Black; 
+            background: url('images/background.jpg'); 
+            background-size: cover; 
+            background-position: center; 
+            background-attachment: fixed; 
+            background-repeat: no-repeat; 
+            color: #FFD700; 
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
 
-   
+        
    header {
             text-align: center;
             padding: 20px;
-            background-color: #FFD700; /* Gold */; 
-            color: black; 
+            background-color: black;
+            color: #FFD700; /* Gold */
         }
 
-   
+        
    nav {
-            background-color: black; 
+            background-color: black;
             padding: 10px;
             text-align: center;
         }
@@ -41,7 +44,7 @@
         }
 
    nav ul li a {
-            color: #FFD700;
+            color: #FFD700; /* Gold */
             text-decoration: none;
             font-weight: bold;
         }
@@ -50,7 +53,7 @@
             color: white;
         }
 
-  
+        
    section {
             padding: 20px;
             text-align: center;
@@ -96,7 +99,7 @@
             color: black;
         }
 
-   
+        
    footer {
             text-align: center;
             padding: 15px;
@@ -105,37 +108,44 @@
             margin-top: 20px;
         }
 
-   
+        
    form {
-            background: black;
+            background: black; /* Black background */
             padding: 20px;
             border-radius: 5px;
-            color: #FFD700; /* Gold */
+            color: #FFD700; /* Gold text */
             max-width: 400px;
             margin: auto;
+            border: 2px solid #FFD700; /* Gold border */
+        }
+
+   label {
+            display: block;
+            margin: 10px 0 5px;
         }
 
    input, textarea {
             width: 100%;
             padding: 8px;
-            margin: 10px 0;
+            margin: 5px 0 15px;
             border-radius: 5px;
-            border: 1px solid #FFD700; /* Gold */
-            background: #FFD700; /* Yellow Gold */
-            color: black;
+            border: 1px solid #FFD700; /* Gold border */
+            background: black; /* Black input background */
+            color: #FFD700; /* Gold text */
         }
 
    button {
             background-color: black;
             color: #FFD700; /* Gold */
-            border: none;
+            border: 2px solid #FFD700;
             padding: 10px;
             border-radius: 5px;
             cursor: pointer;
+            width: 100%;
         }
 
    button:hover {
-            background-color: white;
+            background-color: #FFD700;
             color: black;
         }
     </style>
@@ -175,33 +185,6 @@
             <p><strong>Use:</strong> Essential in classical, jazz, and contemporary music.</p>
             <a href="posts/piano.html">Read More</a>
         </div>
-
-   <div class="blog-post">
-            <img src="images/download.jpeg" alt="Violin">
-            <h3>The Violin</h3>
-            <p><strong>Definition:</strong> A bowed string instrument with four strings.</p>
-            <p><strong>History:</strong> Originated in the 16th century in Italy, evolving from earlier stringed instruments.</p>
-            <p><strong>Use:</strong> Key in orchestras, folk music, and solo performances.</p>
-            <a href="posts/violin.html">Read More</a>
-        </div>
-
-   <div class="blog-post">
-            <img src="images/images (10).jpeg" alt="Drums">
-            <h3>The Drums</h3>
-            <p><strong>Definition:</strong> A percussion instrument that produces sound when struck.</p>
-            <p><strong>History:</strong> Drums have been used since ancient times for communication and music.</p>
-            <p><strong>Use:</strong> Provides rhythm in nearly all genres of music.</p>
-            <a href="posts/drums.html">Read More</a>
-        </div>
-
-   <div class="blog-post">
-            <img src="images/images (11).jpeg" alt="Flute">
-            <h3>The Flute</h3>
-            <p><strong>Definition:</strong> A wind instrument that produces sound by blowing air across an opening.</p>
-            <p><strong>History:</strong> One of the oldest musical instruments, with versions found in prehistoric times.</p>
-            <p><strong>Use:</strong> Used in orchestras, folk music, and even pop and jazz.</p>
-            <a href="posts/flute.html">Read More</a>
-        </div>
     </section>
 
    <section id="contact">
@@ -218,7 +201,7 @@
 
    <button type="submit">Send</button>
         </form>
-        <p id="formMessage"></p>
+        <p id="formMessage" style="text-align: center; margin-top: 10px;"></p>
     </section>
 
    <footer>
@@ -235,7 +218,7 @@
 
             if (name && email && message) {
                 document.getElementById("formMessage").textContent = "Thank you for your message!";
-                document.getElementById("formMessage").style.color = "green";
+                document.getElementById("formMessage").style.color = "#FFD700"; // Gold text
                 document.getElementById("contactForm").reset();
             } else {
                 document.getElementById("formMessage").textContent = "Please fill out all fields.";
