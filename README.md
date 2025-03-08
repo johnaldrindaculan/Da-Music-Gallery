@@ -20,12 +20,12 @@
             text-align: center;
             padding: 20px;
             background-color: #FFD700; /* Yellow Gold */
-            color: #FFD700; /* Gold */
+            color: black; 
         }
 
    
    nav {
-            background-color: black;
+            background-color: #FFD700; /* Gold */
             padding: 10px;
             text-align: center;
         }
