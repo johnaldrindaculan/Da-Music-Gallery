@@ -6,23 +6,24 @@
     <title>Music Blog | Explore Musical Instruments</title>
     <style>
         
+   
    body {
-            background-color: gold;
-            color: black;
+            background-color: #FAE7B5; /* Light Gold */
+            color: #FFD700; /* Gold */
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
 
-        
+   
    header {
             text-align: center;
             padding: 20px;
             background-color: black;
-            color: gold;
+            color: #FFD700; /* Gold */
         }
 
-        
+   
    nav {
             background-color: black;
             padding: 10px;
@@ -40,7 +41,7 @@
         }
 
    nav ul li a {
-            color: gold;
+            color: #FFD700; /* Gold */
             text-decoration: none;
             font-weight: bold;
         }
@@ -49,14 +50,14 @@
             color: white;
         }
 
-        
+  
    section {
             padding: 20px;
             text-align: center;
         }
 
    .blog-post {
-            background: black;
+            background: #FFD700; /* Yellow Gold */
             padding: 15px;
             margin: 15px;
             border-radius: 5px;
@@ -64,7 +65,7 @@
             text-align: left;
             max-width: 600px;
             margin: auto;
-            color: gold;
+            color: black; /* Black text for readability */
         }
 
    .blog-post img {
@@ -76,7 +77,7 @@
         }
 
    .blog-post h3 {
-            color: gold;
+            color: black; /* Black for readability */
             text-align: center;
         }
 
@@ -85,7 +86,7 @@
             margin-top: 10px;
             padding: 8px 15px;
             background-color: black;
-            color: gold;
+            color: #FFD700; /* Gold */
             text-decoration: none;
             border-radius: 5px;
         }
@@ -95,19 +96,21 @@
             color: black;
         }
 
+   
    footer {
             text-align: center;
             padding: 15px;
             background-color: black;
-            color: gold;
+            color: #FFD700; /* Gold */
             margin-top: 20px;
         }
 
+   
    form {
             background: black;
             padding: 20px;
             border-radius: 5px;
-            color: gold;
+            color: #FFD700; /* Gold */
             max-width: 400px;
             margin: auto;
         }
@@ -117,14 +120,14 @@
             padding: 8px;
             margin: 10px 0;
             border-radius: 5px;
-            border: 1px solid gold;
-            background: gold;
+            border: 1px solid #FFD700; /* Gold */
+            background: #FFD700; /* Yellow Gold */
             color: black;
         }
 
    button {
             background-color: black;
-            color: gold;
+            color: #FFD700; /* Gold */
             border: none;
             padding: 10px;
             border-radius: 5px;
