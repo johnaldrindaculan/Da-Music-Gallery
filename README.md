@@ -184,6 +184,32 @@
             <p><strong>History:</strong> Invented in Italy in the early 1700s by Bartolomeo Cristofori.</p>
             <p><strong>Use:</strong> Essential in classical, jazz, and contemporary music.</p>
             <a href="posts/piano.html">Read More</a>
+
+   <div class="blog-post">
+            <img src="images/download.jpeg" alt="Violin">
+            <h3>The Violin</h3>
+            <p><strong>Definition:</strong> A bowed string instrument with four strings.</p>
+            <p><strong>History:</strong> Originated in the 16th century in Italy, evolving from earlier stringed instruments.</p>
+            <p><strong>Use:</strong> Key in orchestras, folk music, and solo performances.</p>
+            <a href="posts/violin.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/images (10).jpeg" alt="Drums">
+            <h3>The Drums</h3>
+            <p><strong>Definition:</strong> A percussion instrument that produces sound when struck.</p>
+            <p><strong>History:</strong> Drums have been used since ancient times for communication and music.</p>
+            <p><strong>Use:</strong> Provides rhythm in nearly all genres of music.</p>
+            <a href="posts/drums.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/images (11).jpeg" alt="Flute">
+            <h3>The Flute</h3>
+            <p><strong>Definition:</strong> A wind instrument that produces sound by blowing air across an opening.</p>
+            <p><strong>History:</strong> One of the oldest musical instruments, with versions found in prehistoric times.</p>
+            <p><strong>Use:</strong> Used in orchestras, folk music, and even pop and jazz.</p>
+            <a href="posts/flute.html">Read More</a>
         </div>
     </section>
 
