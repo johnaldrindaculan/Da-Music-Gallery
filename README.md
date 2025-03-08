@@ -19,7 +19,7 @@
    header {
             text-align: center;
             padding: 20px;
-            background-color: black;
+            background-color: #FFD700; /* Yellow Gold */
             color: #FFD700; /* Gold */
         }
 
