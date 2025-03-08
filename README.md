@@ -184,7 +184,8 @@
             <p><strong>History:</strong> Invented in Italy in the early 1700s by Bartolomeo Cristofori.</p>
             <p><strong>Use:</strong> Essential in classical, jazz, and contemporary music.</p>
             <a href="posts/piano.html">Read More</a>
-
+    </div>
+ 
    <div class="blog-post">
             <img src="images/download.jpeg" alt="Violin">
             <h3>The Violin</h3>
@@ -252,6 +253,5 @@
             }
         });
     </script>
-
 </body>
 </html>
