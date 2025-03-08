@@ -25,7 +25,7 @@
 
    
    nav {
-            background-color: #FFD700; /* Gold */ ; 
+            background-color: black; 
             padding: 10px;
             text-align: center;
         }
