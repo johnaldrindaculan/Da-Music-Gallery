@@ -19,13 +19,13 @@
    header {
             text-align: center;
             padding: 20px;
-            background-color: #FFD700; /* Yellow Gold */
+            background-color: #FFD700; /* Gold */; 
             color: black; 
         }
 
    
    nav {
-            background-color: #FFD700; /* Gold */
+            background-color: #FFD700; /* Gold */ ; 
             padding: 10px;
             text-align: center;
         }
