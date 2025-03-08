@@ -9,7 +9,7 @@
    
    body {
             background-color: #FAE7B5; /* Light Gold */
-            color: #FFD700; /* Gold */
+            color: Black; 
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -41,7 +41,7 @@
         }
 
    nav ul li a {
-            color: #FFD700; /* Gold */
+            color: Blue;
             text-decoration: none;
             font-weight: bold;
         }
