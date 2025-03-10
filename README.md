@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Music Blog | Explore Musical Instruments</title>
     <style>
-        
-   body {
+        body {
             background: url('images/images (6).jpeg'); 
             background-size: cover; 
             background-position: center; 
@@ -18,15 +17,13 @@
             padding: 0;
         }
 
-        
    header {
             text-align: center;
             padding: 20px;
             background-color: black;
-            color: #FFD700; /* Gold */
+            color: #FFD700; 
         }
 
-        
    nav {
             background-color: black;
             padding: 10px;
@@ -44,7 +41,7 @@
         }
 
    nav ul li a {
-            color: #FFD700; /* Gold */
+            color: #FFD700; 
             text-decoration: none;
             font-weight: bold;
         }
@@ -53,14 +50,13 @@
             color: white;
         }
 
-        
    section {
             padding: 20px;
             text-align: center;
         }
 
    .blog-post {
-            background: #FFD700; /* Yellow Gold */
+            background: #FFD700; 
             padding: 15px;
             margin: 15px;
             border-radius: 5px;
@@ -68,7 +64,7 @@
             text-align: left;
             max-width: 600px;
             margin: auto;
-            color: black; /* Black text for readability */
+            color: black; 
         }
 
    .blog-post img {
@@ -80,7 +76,7 @@
         }
 
    .blog-post h3 {
-            color: black; /* Black for readability */
+            color: black;
             text-align: center;
         }
 
@@ -89,7 +85,7 @@
             margin-top: 10px;
             padding: 8px 15px;
             background-color: black;
-            color: #FFD700; /* Gold */
+            color: #FFD700;
             text-decoration: none;
             border-radius: 5px;
         }
@@ -99,24 +95,22 @@
             color: black;
         }
 
-        
    footer {
             text-align: center;
             padding: 15px;
             background-color: black;
-            color: #FFD700; /* Gold */
+            color: #FFD700; 
             margin-top: 20px;
         }
 
-        
    form {
-            background: black; /* Black background */
+            background: black; 
             padding: 20px;
             border-radius: 5px;
-            color: #FFD700; /* Gold text */
+            color: #FFD700; 
             max-width: 400px;
             margin: auto;
-            border: 2px solid #FFD700; /* Gold border */
+            border: 2px solid #FFD700; 
         }
 
    label {
@@ -129,14 +123,14 @@
             padding: 8px;
             margin: 5px 0 15px;
             border-radius: 5px;
-            border: 1px solid #FFD700; /* Gold border */
-            background: black; /* Black input background */
-            color: #FFD700; /* Gold text */
+            border: 1px solid #FFD700;
+            background: black;
+            color: #FFD700;
         }
 
    button {
             background-color: black;
-            color: #FFD700; /* Gold */
+            color: #FFD700;
             border: 2px solid #FFD700;
             padding: 10px;
             border-radius: 5px;
@@ -168,49 +162,64 @@
    <section id="blog">
         <h2>Latest Blog Posts</h2>
 
-   <div class="blog-post">       
+   <div class="blog-post">
             <img src="images/images (8).jpeg" alt="Guitar">
             <h3>The Guitar</h3>
-            <p><strong>Definition:</strong> A stringed instrument played by plucking or strumming.</p>
-            <p><strong>History:</strong> The guitar has roots dating back over 4,000 years, with early versions appearing in ancient Persia and Egypt.</p>
-            <p><strong>Use:</strong> Found in many genres, from classical to rock and pop.</p>
             <a href="posts/guitar.html">Read More</a>
         </div>
 
    <div class="blog-post">
             <img src="images/images (9).jpeg" alt="Piano">
             <h3>The Piano</h3>
-            <p><strong>Definition:</strong> A keyboard instrument where hammers strike strings to produce sound.</p>
-            <p><strong>History:</strong> Invented in Italy in the early 1700s by Bartolomeo Cristofori.</p>
-            <p><strong>Use:</strong> Essential in classical, jazz, and contemporary music.</p>
             <a href="posts/piano.html">Read More</a>
-    </div>
- 
+        </div>
+
    <div class="blog-post">
             <img src="images/download.jpeg" alt="Violin">
             <h3>The Violin</h3>
-            <p><strong>Definition:</strong> A bowed string instrument with four strings.</p>
-            <p><strong>History:</strong> Originated in the 16th century in Italy, evolving from earlier stringed instruments.</p>
-            <p><strong>Use:</strong> Key in orchestras, folk music, and solo performances.</p>
             <a href="posts/violin.html">Read More</a>
         </div>
 
    <div class="blog-post">
             <img src="images/images (10).jpeg" alt="Drums">
             <h3>The Drums</h3>
-            <p><strong>Definition:</strong> A percussion instrument that produces sound when struck.</p>
-            <p><strong>History:</strong> Drums have been used since ancient times for communication and music.</p>
-            <p><strong>Use:</strong> Provides rhythm in nearly all genres of music.</p>
             <a href="posts/drums.html">Read More</a>
         </div>
 
    <div class="blog-post">
             <img src="images/images (11).jpeg" alt="Flute">
             <h3>The Flute</h3>
-            <p><strong>Definition:</strong> A wind instrument that produces sound by blowing air across an opening.</p>
-            <p><strong>History:</strong> One of the oldest musical instruments, with versions found in prehistoric times.</p>
-            <p><strong>Use:</strong> Used in orchestras, folk music, and even pop and jazz.</p>
             <a href="posts/flute.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/saxophone.jpeg" alt="Saxophone">
+            <h3>The Saxophone</h3>
+            <a href="posts/saxophone.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/trumpet.jpeg" alt="Trumpet">
+            <h3>The Trumpet</h3>
+            <a href="posts/trumpet.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/cello.jpeg" alt="Cello">
+            <h3>The Cello</h3>
+            <a href="posts/cello.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/harp.jpeg" alt="Harp">
+            <h3>The Harp</h3>
+            <a href="posts/harp.html">Read More</a>
+        </div>
+
+   <div class="blog-post">
+            <img src="images/accordion.jpeg" alt="Accordion">
+            <h3>The Accordion</h3>
+            <a href="posts/accordion.html">Read More</a>
         </div>
     </section>
 
@@ -238,14 +247,12 @@
    <script>
         document.getElementById("contactForm").addEventListener("submit", function(event) {
             event.preventDefault();
-            
             let name = document.getElementById("name").value;
             let email = document.getElementById("email").value;
             let message = document.getElementById("message").value;
 
             if (name && email && message) {
                 document.getElementById("formMessage").textContent = "Thank you for your message!";
-                document.getElementById("formMessage").style.color = "#FFD700"; // Gold text
                 document.getElementById("contactForm").reset();
             } else {
                 document.getElementById("formMessage").textContent = "Please fill out all fields.";
