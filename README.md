@@ -199,25 +199,25 @@
         </div>
 
    <div class="blog-post">
-            <img src="images/download (6).jpeg" alt="Trumpet">
+            <img src="images/download (5).jpeg" alt="Trumpet">
             <h3>The Trumpet</h3>
             <a href="posts/trumpet.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/download (7).jpeg" alt="Cello">
+            <img src="images/download (6).jpeg" alt="Cello">
             <h3>The Cello</h3>
             <a href="posts/cello.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/download (8).jpeg" alt="Harp">
+            <img src="images/download (7).jpeg" alt="Harp">
             <h3>The Harp</h3>
             <a href="posts/harp.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/download (9).jpeg" alt="Accordion">
+            <img src="images/download (8).jpeg" alt="Accordion">
             <h3>The Accordion</h3>
             <a href="posts/accordion.html">Read More</a>
         </div>
