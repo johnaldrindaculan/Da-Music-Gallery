@@ -193,31 +193,31 @@
         </div>
 
    <div class="blog-post">
-            <img src="images/saxophone.jpeg" alt="Saxophone">
+            <img src="images/images (13).jpeg" alt="Saxophone">
             <h3>The Saxophone</h3>
             <a href="posts/saxophone.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/trumpet.jpeg" alt="Trumpet">
+            <img src="images/download (6).jpeg" alt="Trumpet">
             <h3>The Trumpet</h3>
             <a href="posts/trumpet.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/cello.jpeg" alt="Cello">
+            <img src="images/download (7).jpeg" alt="Cello">
             <h3>The Cello</h3>
             <a href="posts/cello.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/harp.jpeg" alt="Harp">
+            <img src="images/download (8).jpeg" alt="Harp">
             <h3>The Harp</h3>
             <a href="posts/harp.html">Read More</a>
         </div>
 
    <div class="blog-post">
-            <img src="images/accordion.jpeg" alt="Accordion">
+            <img src="images/download (9).jpeg" alt="Accordion">
             <h3>The Accordion</h3>
             <a href="posts/accordion.html">Read More</a>
         </div>
