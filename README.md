@@ -146,119 +146,115 @@
 </head>
 <body>
 
-  <header>
-        <h1>Music Blog</h1>
-        <p>Discover the beauty of musical instruments</p>
-    </header>
+<header>
+    <h1>Music Blog</h1>
+    
+   <p>Welcome to the Music Blog, a place where the magic of musical instruments comes to life! Whether you're a musician, a beginner, or just someone who loves music, this blog is designed to bring you closer to the beauty of sound. Music has the power to inspire, heal, and connect people across cultures, and we're here to explore that journey with you.</p>
 
-   <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#blog">Blog</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+   <p>This blog is dedicated to providing in-depth knowledge about a wide range of musical instruments. From the classical elegance of the violin to the rhythmic beats of the drums, each instrument holds a unique story. Here, you'll find detailed information about their history, playing techniques, famous musicians who mastered them, and their impact on different genres. Whether you're looking to learn a new instrument or simply curious about their role in music, our goal is to make this blog an informative and enjoyable resource for you.</p>
 
-   <section id="blog">
-        <h2>Latest Blog Posts</h2>
+   <p>Created by: [Your Name] | Section: 12 STEM Maka-Diyos</p>
+</header>
 
-   <div class="blog-post">
-            <img src="images/images (8).jpeg" alt="Guitar">
-            <h3>The Guitar</h3>
-            <a href="posts/guitar.html">Read More</a>
-        </div>
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#blog">Blog</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
 
-   <div class="blog-post">
-            <img src="images/images (9).jpeg" alt="Piano">
-            <h3>The Piano</h3>
-            <a href="posts/piano.html">Read More</a>
-        </div>
+<section id="blog">
+    <h2>Latest Blog Posts</h2>
 
    <div class="blog-post">
-            <img src="images/download.jpeg" alt="Violin">
-            <h3>The Violin</h3>
-            <a href="posts/violin.html">Read More</a>
-        </div>
+        <img src="images/images (8).jpeg" alt="Guitar">
+        <h3>The Guitar</h3>
+        <a href="posts/guitar.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/images (10).jpeg" alt="Drums">
-            <h3>The Drums</h3>
-            <a href="posts/drums.html">Read More</a>
-        </div>
+        <img src="images/images (9).jpeg" alt="Piano">
+        <h3>The Piano</h3>
+        <a href="posts/piano.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/images (11).jpeg" alt="Flute">
-            <h3>The Flute</h3>
-            <a href="posts/flute.html">Read More</a>
-        </div>
+        <img src="images/download.jpeg" alt="Violin">
+        <h3>The Violin</h3>
+        <a href="posts/violin.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/images (13).jpeg" alt="Saxophone">
-            <h3>The Saxophone</h3>
-            <a href="posts/saxophone.html">Read More</a>
-        </div>
+        <img src="images/images (10).jpeg" alt="Drums">
+        <h3>The Drums</h3>
+        <a href="posts/drums.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/download (5).jpeg" alt="Trumpet">
-            <h3>The Trumpet</h3>
-            <a href="posts/trumpet.html">Read More</a>
-        </div>
+        <img src="images/images (11).jpeg" alt="Flute">
+        <h3>The Flute</h3>
+        <a href="posts/flute.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/download (6).jpeg" alt="Cello">
-            <h3>The Cello</h3>
-            <a href="posts/cello.html">Read More</a>
-        </div>
+        <img src="images/images (13).jpeg" alt="Saxophone">
+        <h3>The Saxophone</h3>
+        <a href="posts/saxophone.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/download (7).jpeg" alt="Harp">
-            <h3>The Harp</h3>
-            <a href="posts/harp.html">Read More</a>
-        </div>
+        <img src="images/download (5).jpeg" alt="Trumpet">
+        <h3>The Trumpet</h3>
+        <a href="posts/trumpet.html">Read More</a>
+    </div>
 
    <div class="blog-post">
-            <img src="images/download (8).jpeg" alt="Accordion">
-            <h3>The Accordion</h3>
-            <a href="posts/accordion.html">Read More</a>
-        </div>
-    </section>
+        <img src="images/download (6).jpeg" alt="Cello">
+        <h3>The Cello</h3>
+        <a href="posts/cello.html">Read More</a>
+    </div>
 
-   <section id="contact">
-        <h2>Contact Us</h2>
-        <form id="contactForm">
-            <label for="name">Name:</label>
-            <input type="text" id="name" required>
+  <div class="blog-post">
+        <img src="images/download (7).jpeg" alt="Harp">
+        <h3>The Harp</h3>
+        <a href="posts/harp.html">Read More</a>
+    </div>
+
+ <div class="blog-post">
+        <img src="images/download (8).jpeg" alt="Accordion">
+        <h3>The Accordion</h3>
+        <a href="posts/accordion.html">Read More</a>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <form id="contactForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
 
    <label for="email">Email:</label>
-            <input type="email" id="email" required>
+        <input type="email" id="email" required>
 
    <label for="message">Message:</label>
-            <textarea id="message" required></textarea>
+        <textarea id="message" required></textarea>
+  <button type="submit">Send</button>
+    </form>
+    <p id="formMessage" style="text-align: center; margin-top: 10px;"></p>
+</section>
 
-   <button type="submit">Send</button>
-        </form>
-        <p id="formMessage" style="text-align: center; margin-top: 10px;"></p>
-    </section>
+<footer>
+    <p>&copy; 2025 Music Blog. All rights reserved.</p>
+</footer>
 
-   <footer>
-        <p>&copy; 2025 Music Blog. All rights reserved.</p>
-    </footer>
+<script>
+    document.getElementById("contactForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        document.getElementById("formMessage").textContent = "Thank you for your message!";
+        document.getElementById("contactForm").reset();
+    });
+</script>
 
-   <script>
-        document.getElementById("contactForm").addEventListener("submit", function(event) {
-            event.preventDefault();
-            let name = document.getElementById("name").value;
-            let email = document.getElementById("email").value;
-            let message = document.getElementById("message").value;
-
-            if (name && email && message) {
-                document.getElementById("formMessage").textContent = "Thank you for your message!";
-                document.getElementById("contactForm").reset();
-            } else {
-                document.getElementById("formMessage").textContent = "Please fill out all fields.";
-                document.getElementById("formMessage").style.color = "red";
-            }
-        });
-    </script>
 </body>
 </html>
