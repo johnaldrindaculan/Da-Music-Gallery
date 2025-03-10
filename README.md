@@ -153,7 +153,7 @@
 
    <p>This blog is dedicated to providing in-depth knowledge about a wide range of musical instruments. From the classical elegance of the violin to the rhythmic beats of the drums, each instrument holds a unique story. Here, you'll find detailed information about their history, playing techniques, famous musicians who mastered them, and their impact on different genres. Whether you're looking to learn a new instrument or simply curious about their role in music, our goal is to make this blog an informative and enjoyable resource for you.</p>
 
-   <p>Created by: [Your Name] | Section: 12 STEM Maka-Diyos</p>
+   <p>Created by: John Aldrin Daculan | Section: 12 STEM Maka-Diyos</p>
 </header>
 
 <nav>
